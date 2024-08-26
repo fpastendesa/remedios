@@ -1,1 +1,2 @@
 Aplicacion para registrar remedios
+Commit inicial desde Pycharm
